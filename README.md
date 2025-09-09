@@ -7,6 +7,8 @@
   DevOps
 ### Skills and tools
   ![Static Badge](https://img.shields.io/badge/Javascrpit-yellow?style=for-the-badge&logo=javascript&logoColor=yellow&logoSize=auto)
+  ![Static Badge](https://img.shields.io/badge/beginner?style=flat-square&logo=java%20script&logoColor=red&logoSize=30&link=javascript)
+
 
 
 
